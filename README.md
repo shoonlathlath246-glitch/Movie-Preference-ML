@@ -52,5 +52,5 @@ Dataset: https://grouplens.org/datasets/movielens/
 
 Reference:
 
-Harper, F. M., & Konstan, J. A. (2015). The MovieLens datasets: History and context.*ACM transactions on Interactive Intelligent Systems, 5*(4), Article 19.
+Harper, F. M., & Konstan, J. A. (2015). The MovieLens datasets: History and context. *ACM transactions on Interactive Intelligent Systems, 5*(4), Article 19.
 https://dl.acm.org/doi/10.1145/2827872
